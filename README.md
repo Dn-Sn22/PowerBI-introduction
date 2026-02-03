@@ -18,14 +18,16 @@
 ## Используемые данные
 
 - Данные были импортированы из (https://github.com/AlexTheAnalyst/Power-BI)
-[Apocolypse Food Prep.xlsx](https://github.com/user-attachments/files/25045848/Apocolypse.Food.Prep.xlsx)
-[Apocolypse Food Prep - Bins Lists Tutorial.xlsx](https://github.com/user-attachments/files/25045850/Apocolypse.Food.Prep.-.Bins.Lists.Tutorial.xlsx)
-[Apocolypse Food Prep - Conditional Formatting Tutorial.xlsx](https://github.com/user-attachments/files/25045852/Apocolypse.Food.Prep.-.Conditional.Formatting.Tutorial.xlsx)
-[Apocolypse Food Prep - Power Query Editor Tutorial.xlsx](https://github.com/user-attachments/files/25045853/Apocolypse.Food.Prep.-.Power.Query.Editor.Tutorial.xlsx)
-[Apocolypse Food Prep - DAX Tutorial.xlsx](https://github.com/user-attachments/files/25045854/Apocolypse.Food.Prep.-.DAX.Tutorial.xlsx)
-[Apocolypse Food Prep - Drill Down Tutorial.xlsx](https://github.com/user-attachments/files/25045856/Apocolypse.Food.Prep.-.Drill.Down.Tutorial.xlsx)
-[Apocolypse Food Prep - Visualizations Tutorial.xlsx](https://github.com/user-attachments/files/25045858/Apocolypse.Food.Prep.-.Visualizations.Tutorial.xlsx)
-[Power BI - Final Project.xlsx](https://github.com/user-attachments/files/25045872/Power.BI.-.Final.Project.xlsx)
+
+Файлы продублированы ниже:
+- [Apocolypse Food Prep.xlsx](https://github.com/user-attachments/files/25045848/Apocolypse.Food.Prep.xlsx)
+- [Apocolypse Food Prep - Bins Lists Tutorial.xlsx](https://github.com/user-attachments/files/25045850/Apocolypse.Food.Prep.-.Bins.Lists.Tutorial.xlsx)
+- [Apocolypse Food Prep - Conditional Formatting Tutorial.xlsx](https://github.com/user-attachments/files/25045852/Apocolypse.Food.Prep.-.Conditional.Formatting.Tutorial.xlsx)
+- [Apocolypse Food Prep - Power Query Editor Tutorial.xlsx](https://github.com/user-attachments/files/25045853/Apocolypse.Food.Prep.-.Power.Query.Editor.Tutorial.xlsx)
+- [Apocolypse Food Prep - DAX Tutorial.xlsx](https://github.com/user-attachments/files/25045854/Apocolypse.Food.Prep.-.DAX.Tutorial.xlsx)
+- [Apocolypse Food Prep - Drill Down Tutorial.xlsx](https://github.com/user-attachments/files/25045856/Apocolypse.Food.Prep.-.Drill.Down.Tutorial.xlsx)
+- [Apocolypse Food Prep - Visualizations Tutorial.xlsx](https://github.com/user-attachments/files/25045858/Apocolypse.Food.Prep.-.Visualizations.Tutorial.xlsx)
+- [Power BI - Final Project.xlsx](https://github.com/user-attachments/files/25045872/Power.BI.-.Final.Project.xlsx)
 
 ## Этапы работы
 
